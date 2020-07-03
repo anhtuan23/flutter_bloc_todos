@@ -5,7 +5,6 @@ import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc_todo/models/models.dart';
 
 part 'tab_event.dart';
-part 'tab_state.dart';
 
 class TabBloc extends Bloc<TabEvent, AppTab> {
   @override
