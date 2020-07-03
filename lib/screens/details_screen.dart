@@ -5,6 +5,7 @@ import 'package:flutter_bloc_todo/blocs/blocs.dart';
 import 'package:todos_app_core/todos_app_core.dart';
 
 import '../flutter_todos_keys.dart';
+import 'screens.dart';
 
 
 class DetailsScreen extends StatelessWidget {
